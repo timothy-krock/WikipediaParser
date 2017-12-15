@@ -1,1 +1,1 @@
-WIKIPEDIA PARSER
+Parser for the wikipedia XML Dump
